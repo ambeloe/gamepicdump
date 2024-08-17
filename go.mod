@@ -1,4 +1,4 @@
-module gamepicdump
+module github.com/ambeloe/gamepicdump
 
 go 1.21.8
 
